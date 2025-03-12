@@ -1,5 +1,6 @@
 # poker
-Java-based online poker game
+Java-based network poker game.
+Each player has their own console window, which constantly displays the moves they can make and the moves their opponents make.
 
 
 GAME 5-Card Poker
