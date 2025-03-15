@@ -1,9 +1,13 @@
-# poker
+# GAME 5-Card Poker
 Java-based network poker game.
 Each player has their own console window, which constantly displays the moves they can make and the moves their opponents make.
 
+#### Details:
+- Maven based project
+- Tested with JUnit - 74% of Code Coverage reported by SonarQube
+- Fully documented with JavaDoc
+- used java.nio package for Server based communication using Sockets
 
-GAME 5-Card Poker
 
 #### The course of the game:
 0. Create or join the game - to game to start the minimum players requirement must be met.
